@@ -1,0 +1,3 @@
+[submodule "app/boards/shields/corne_hs"]
+	path = app/boards/shields/corne_hs
+	url = git@github.com:carschandler/corne_hs.git

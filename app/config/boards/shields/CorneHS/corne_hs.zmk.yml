@@ -1,0 +1,11 @@
+file_format: "1"
+id: corne_hs
+name: Corne_High_Stagger
+type: shield
+url: https://github.com/carschandler/zmk_desktop
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - corne_hs_left
+  - corne_hs_right
